@@ -37,4 +37,4 @@ else
 fi
 
 echo "===== RUNNING LEGO ====="
-$LEGO_CMD
+$LEGO_CMD $@
